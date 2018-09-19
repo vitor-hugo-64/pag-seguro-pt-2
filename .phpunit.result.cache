@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":212:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:4:{s:20:"testPagSeguroRequest";d:1.093;s:38:"testListarProdutosAdicionadosEmUmArray";d:0;s:18:"testRemoverProduto";d:0;s:40:"testListarProdutosAdicionadosEmUmaString";d:0;}}}
